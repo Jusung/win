@@ -17,5 +17,6 @@ def calculator():
         return
 
     print(f"The result is: {result}1")
+    print(f"The result is: {result}2")
 
 calculator()
